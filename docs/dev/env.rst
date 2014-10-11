@@ -77,6 +77,26 @@ It has:
 
 And more.
 
+Gedit
+-----
+`Gedit <https://wiki.gnome.org/Apps/Gedit>`_ is the GNOME text editor.
+While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
+
+Features
+
+  -  Configurable syntax highlighting for various languages (C, C++, Java, HTML, XML, Python, Perl and many others)
+  -  Editing files from remote locations
+  -  File reverting
+  -  Go to specific line
+  -  Auto indentation
+  -  Text wrapping
+  -  Line number
+  -  Current line highlighting
+  -  Bracket matching
+  -  Backup files
+  -  Configurable fonts and colors
+  -  A flexible plugin system which can be used to dynamically add new advanced features 
+
 SuperTab
 ^^^^^^^^
 
